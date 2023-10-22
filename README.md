@@ -1,25 +1,27 @@
 # Employee-Management-System-using-CBV
 
-This project includes CRUD operation using Django class-based views with pagination.
+This project includes CRUD operation using Django class-based views.
 
 
 When no record is present for any Employee in the database.
-![image](https://github.com/ysinghal555/Employee-Management-System/assets/49035527/36a1c3b0-9a27-43e7-bb8a-c592f2195eef)
+![image](https://github.com/ysinghal555/Employee-Management-System-using-CBV/assets/49035527/4ebc7c73-5a7d-4f5e-b96f-ceddb31fab71)
+
 
 Adding a new Employee Detail
-![image](https://github.com/ysinghal555/Employee-Management-System/assets/49035527/c35b8b54-7ea0-4f73-80b5-0d6aec004349)
+![image](https://github.com/ysinghal555/Employee-Management-System-using-CBV/assets/49035527/f07c109d-5e0c-46c7-9e25-833d7093f15d)
+
 
 Employee Detail
-![image](https://github.com/ysinghal555/Employee-Management-System/assets/49035527/40b2e98b-9b40-4bc7-ac8e-db78da28e4cd)
+![image](https://github.com/ysinghal555/Employee-Management-System-using-CBV/assets/49035527/8e1d2874-b556-4996-8968-e7ad90a87d1f)
+
 
 Update Employee
-![image](https://github.com/ysinghal555/Employee-Management-System/assets/49035527/48e122bd-a8ab-40ef-a8d1-e7583f9873de)
-![image](https://github.com/ysinghal555/Employee-Management-System/assets/49035527/4050813d-85f1-4f2f-995c-a08f1a6b9c4d)
+![image](https://github.com/ysinghal555/Employee-Management-System-using-CBV/assets/49035527/e8a3bc33-107e-419e-8f04-82fca99debdf)
+![image](https://github.com/ysinghal555/Employee-Management-System-using-CBV/assets/49035527/b8dc7d07-6e47-4142-8397-9173013753cd)
 
-Pagination
-![image](https://github.com/ysinghal555/Employee-Management-System/assets/49035527/437b8e1d-b195-4723-9bd8-38fb64fbb070)
-![image](https://github.com/ysinghal555/Employee-Management-System/assets/49035527/31c0ea28-61b7-4c10-9efe-d184fbaa3ec2)
 
 Delete Employee (Deleted User1)
-![image](https://github.com/ysinghal555/Employee-Management-System/assets/49035527/5382f9d5-6597-4925-82bd-e3d0b824d85d)
+![image](https://github.com/ysinghal555/Employee-Management-System-using-CBV/assets/49035527/1ee23b9d-7dcd-410c-bd4d-12c2467a3324)
+![image](https://github.com/ysinghal555/Employee-Management-System-using-CBV/assets/49035527/5c9d2b69-7e83-4df1-b9b6-71e8a09a7b84)
+
 
